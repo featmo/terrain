@@ -4,3 +4,7 @@
 bin/*.exe
 obj/*.o
 *.ppm
+src/include/CImg.h
+.vscode/c_cpp_properties.json
+src/makefile
+out_images/out.bmp
